@@ -5810,6 +5810,13 @@ tp-caption.Team-Thumb,
         font-size: 24px !important;
     }
 }
+@media(max-width: 376px)
+{
+    .NotGeneric-Title
+    {
+        font-size: 20px !important;
+    }
+}
 @media(max-width: 550px)
 {
     .NotGeneric-Title
@@ -5825,6 +5832,14 @@ tp-caption.Team-Thumb,
         font-size:17px !important;
     }
 }
+@media(max-width: 376px)
+{
+	.medium_light_white
+    {
+        font-size:15px !important;
+    }
+}
+
 @media(max-width: 550px)
 {
 	.medium_light_white
