@@ -5810,6 +5810,13 @@ tp-caption.Team-Thumb,
         font-size: 24px !important;
     }
 }
+@media(max-width: 550px)
+{
+    .NotGeneric-Title
+    {
+        font-size: 25px !important;
+    }
+}
 
 @media(max-width: 441px)
 {
@@ -5818,3 +5825,34 @@ tp-caption.Team-Thumb,
         font-size:17px !important;
     }
 }
+@media(max-width: 550px)
+{
+	.medium_light_white
+    {
+        font-size:19px !important;
+    }
+}
+
+
+@media(max-width: 441px)
+{
+	.smallsize
+    {
+        font-size:15px !important;
+        z-index: 2; white-space: nowrap;
+        line-height: 30px;
+    }
+}
+
+@media(max-width: 750px)
+{
+	.smallsize
+    {
+        font-size:19px !important;
+        z-index: 2; white-space: nowrap;
+        line-height: 25px;
+    }
+}
+
+
+
